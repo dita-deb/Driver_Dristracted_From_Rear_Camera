@@ -7,7 +7,7 @@ LabelImg is a graphical image annotation tool that supports creating annotations
 
 ### Prerequisites
 
-Please make sure you have [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
+Please make sure you have [Anaconda](https://www.anaconda.com/products/distribution) installed on your system and open anaconda prompt.
 
 ### Steps
 
