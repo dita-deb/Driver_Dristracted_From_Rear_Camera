@@ -3,10 +3,11 @@
 LabelImg is a graphical image annotation tool that supports creating annotations in PASCAL VOC and YOLO formats. This tool is commonly used for training machine learning and deep learning models.
 
 ## Installation and Setup
+[labelImg](https://github.com/HumanSignal/labelImg)
 
 ### Prerequisites
 
-Ensure you have [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
+Please make sure you have [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
 
 ### Steps
 
